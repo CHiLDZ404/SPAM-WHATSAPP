@@ -1,11 +1,11 @@
 # SPAM CODE - WHATSAPP 
 <p align="center">
 
-  <a href="https://github.com/Dra-Ganzz"><img src="http://readme-typing-svg.herokuapp.com?color=BF00FF&center=true&vCenter=true&multiline=false&lines=Kasih+Star+Dong+^_^" alt="UwU">
+  <a href="https://github.com/CHiLDZ404"><img src="http://readme-typing-svg.herokuapp.com?color=BF00FF&center=true&vCenter=true&multiline=false&lines=Kasih+Star+Dong+^_^" alt="UwU">
 
  <p align="center">
 
-   <a href="https://github.com/Dra-Ganzz"><img src="http://readme-typing-svg.herokuapp.com?color=FFD700&center=true&vCenter=true&multiline=false&lines=Harap+Gunakan+Dengan+Bijak" alt="UwU">
+   <a href="https://github.com/CHiLDZ404"><img src="http://readme-typing-svg.herokuapp.com?color=FFD700&center=true&vCenter=true&multiline=false&lines=Harap+Gunakan+Dengan+Bijak" alt="UwU">
  
 # `Install Termux`
 
